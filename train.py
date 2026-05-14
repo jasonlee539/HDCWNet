@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 import warnings
 import argparse
 
@@ -580,37 +580,3 @@ if __name__ == '__main__':
                 validation_steps=args.validation_num/args.batchsize,
                 callbacks=callback
             )
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
