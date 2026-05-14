@@ -89,3 +89,10 @@ Bibtex:
   year={2021}
 }
 ```
+# Newest Thing to Notice
+If u want to try this in torch version please run command like: 
+```
+$ 
+python train_torch.py  --dataPath C:\Users\jason\Desktop\FYP\code\CSD\Train\data.npy   --gtPath C:\Users\jason\Desktop\FYP\code\CSD\Train\gt.npy   --logPath C:\Users\jason\Desktop\FYP\code\CSD\logs --batchsize 1  --epochs 50  --steps_per_epoch 20
+```
+ Then using the model to make some work.
